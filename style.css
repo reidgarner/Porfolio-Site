@@ -4,7 +4,8 @@ header {
     font-family: 'Condiment', cursive;
     font-size: 50pt;
     color: white;
-    position: relative; top: 40px;
+    position: relative;
+    top: 40px;
 }
 
 img {
@@ -49,7 +50,8 @@ h1 {
 }
 
 .media-body {
-    position: relative; top: 100px;
+    position: relative;
+    top: 100px;
     margin-left: 25px;
     margin-right: 50px;
 }
@@ -58,4 +60,3 @@ h1 {
     display: flex;
     justify-content: space-evenly;
 }
-
