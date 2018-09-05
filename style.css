@@ -1,0 +1,65 @@
+header {
+    display: flex;
+    justify-content: center;
+    font-family: 'Condiment', cursive;
+    font-size: 50pt;
+    color: white;
+    position: relative; top: 40px;
+}
+
+img {
+    block-size: 200px;
+    display: flex;
+    margin-top: 50px;
+    border-radius: 10%;
+}
+
+.container-fluid {
+    display: flex;
+    background-color: transparent;
+    height: 300px;
+    justify-content: center;
+}
+
+p {
+    font-size: 18pt;
+    text-align: center;
+}
+
+.container {
+    margin-top: 25px;
+    margin-bottom: 50px;
+    color: white;
+}
+
+body {
+    background-image: url(http://www.intrawallpaper.com/static/images/backgrounds-background-hd-wallpaper-02-download-widescreen-high-resolution-wallpaper.jpg);
+}
+
+h1 {
+    color: white;
+}
+
+.media {
+    color: white;
+}
+
+.mr-3 {
+    border-radius: 50%;
+}
+
+.media-body {
+    position: relative; top: 100px;
+    margin-left: 25px;
+    margin-right: 50px;
+}
+
+.socicons-list {
+    display: flex;
+    /* justify-content: space-around; */
+    justify-content: space-evenly;
+}
+
+a {
+    size
+}
