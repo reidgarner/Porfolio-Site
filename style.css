@@ -56,10 +56,6 @@ h1 {
 
 .socicons-list {
     display: flex;
-    /* justify-content: space-around; */
     justify-content: space-evenly;
 }
 
-a {
-    size
-}
